@@ -67,7 +67,7 @@ export default function Wizard() {
             {/* Semrush Logo */}
             <a href="#" className="flex items-center shrink-0">
               <img
-                src="/new-semrush-logo.svg"
+                src="/semrush-wizard/new-semrush-logo.svg"
                 alt="Semrush"
                 width={130}
                 height={18}
